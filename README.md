@@ -51,7 +51,7 @@ _Индивидуальный проект по теме: практика_
 
 ### 1. Добавьте проверку для всех методов, у которых указывается параметр
 
-![img](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание1.jpg)
+![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание1.jpg)
 
 ### 2. Добавьте метод для вывода одного наименования по указанному индексу.
 
