@@ -55,7 +55,11 @@ _Индивидуальный проект по теме: практика_
 
 ### 2. Добавьте метод для вывода одного наименования по указанному индексу.
 
+![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание2.jpg)
+
 ### 3.Добавьте метод для получения количества записей по указываемому имени.
+
+![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание3.jpg)
 
 ### 4. Добавьте для метода получения всех записей (GetAll) необязательный
 
@@ -80,3 +84,5 @@ _Индивидуальный проект по теме: практика_
 ### d. При всех остальных значениях вернуть ошибку (BadRequest) с
 
 ### сообщением “Некорректное значение параметра sortStrategy”
+
+![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание4.jpg)
