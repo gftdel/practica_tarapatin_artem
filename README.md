@@ -57,7 +57,7 @@ _Индивидуальный проект по теме: практика_
 
 ### 2. Добавьте метод для вывода одного наименования по указанному индексу.
 
-![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание2.jpg)
+![image](https://user-images.githubusercontent.com/130051069/231461872-226728fb-18aa-4fee-9f9b-98cfab160125.png)
 ![image](https://user-images.githubusercontent.com/130051069/231460759-9e79368b-55cd-4494-89bc-20aafceeb53b.png)
 ![image](https://user-images.githubusercontent.com/130051069/231461707-3fcd868b-9a69-4b0b-934b-aa6c8d70a678.png)
 ![image](https://user-images.githubusercontent.com/130051069/231461770-5aaf7fab-afa6-49ff-bfd0-30f675a60a77.png)
