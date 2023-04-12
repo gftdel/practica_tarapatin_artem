@@ -97,6 +97,8 @@ _Индивидуальный проект по теме: практика_
 
 ![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание4.jpg)
 ![image](https://user-images.githubusercontent.com/130051069/231462414-1f39ab9d-b54f-4efa-be5e-9135f873c68d.png)
+![image](https://user-images.githubusercontent.com/130051069/231462939-266d1c3a-8562-4ace-b876-99f530f6fb70.png)
+![image](https://user-images.githubusercontent.com/130051069/231463011-d926a46b-1333-4cc2-9743-c05518c6a03e.png)
 
 
 <hr>
