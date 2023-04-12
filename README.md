@@ -52,17 +52,24 @@ _Индивидуальный проект по теме: практика_
 ### 1. Добавьте проверку для всех методов, у которых указывается параметр
 
 ![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание1.jpg)
+![image](https://user-images.githubusercontent.com/130051069/231461872-226728fb-18aa-4fee-9f9b-98cfab160125.png)
+
 
 ### 2. Добавьте метод для вывода одного наименования по указанному индексу.
 
 ![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание2.jpg)
 ![image](https://user-images.githubusercontent.com/130051069/231460759-9e79368b-55cd-4494-89bc-20aafceeb53b.png)
+![image](https://user-images.githubusercontent.com/130051069/231461707-3fcd868b-9a69-4b0b-934b-aa6c8d70a678.png)
+![image](https://user-images.githubusercontent.com/130051069/231461770-5aaf7fab-afa6-49ff-bfd0-30f675a60a77.png)
 
 
 
 ### 3.Добавьте метод для получения количества записей по указываемому имени.
 
 ![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание3.jpg)
+![image](https://user-images.githubusercontent.com/130051069/231462255-cf098f76-4dca-4d09-a4e4-a64a03d0e792.png)
+![image](https://user-images.githubusercontent.com/130051069/231462312-f2de1fc1-f9bc-41d2-afcb-3b49010533cf.png)
+
 
 ### 4. Добавьте для метода получения всех записей (GetAll) необязательный
 
@@ -89,6 +96,8 @@ _Индивидуальный проект по теме: практика_
 ### сообщением “Некорректное значение параметра sortStrategy”
 
 ![Image alt](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Задание4.jpg)
+![image](https://user-images.githubusercontent.com/130051069/231462414-1f39ab9d-b54f-4efa-be5e-9135f873c68d.png)
+
 
 <hr>
 
