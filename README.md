@@ -104,6 +104,8 @@ _Индивидуальный проект по теме: практика_
 ## Визуализация Бд
 
 ![img](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Бд.jpg)
+## 3.1 Миграция БД в приложение
+![image](https://user-images.githubusercontent.com/130051069/231484884-1e871f59-d0fc-473f-afe9-a2b486cb8dfe.png)
 
 <hr>
 
