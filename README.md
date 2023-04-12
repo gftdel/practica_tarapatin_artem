@@ -94,3 +94,13 @@ _Индивидуальный проект по теме: практика_
 ## Визуализация Бд
 
 ![img](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Бд.jpg)
+
+<hr>
+
+# Задание 4. Создание сайта
+
+## 1. Главная страница сайта
+
+![img](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/Главная_сайта.jpg)
+
+переход можно осуществить с помощью верхней и нижней панели.
