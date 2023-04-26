@@ -128,3 +128,25 @@ _Индивидуальный проект по теме: практика_
 ![img](https://github.com/gftdel/practica_tarapatin_artem/blob/main/картинки/контакты.jpg)
 
 На странице имеется ссылка на вк разработчика, а так же гиф с комару
+
+<hr>
+
+# Задание 5. Создание API
+ 
+## Создвние контроллера для таблицы Cart 
+![image](https://user-images.githubusercontent.com/130051069/234688652-07cc07a7-56de-4a22-b98a-bcc86c934996.png)
+
+## Создвние контроллера для таблицы CartItem
+![image](https://user-images.githubusercontent.com/130051069/234689224-884bc5f3-9553-4aa0-a5cb-e7242bc2438e.png)
+
+## Создвние контроллера для таблицы Order 
+![image](https://user-images.githubusercontent.com/130051069/234689291-6eb6e9e8-4b76-413c-8f68-1180b3868976.png)
+
+## Создвние контроллера для таблицы OrderItem 
+![image](https://user-images.githubusercontent.com/130051069/234689335-0cf6e2cc-1d9b-4768-9718-43fd8c7ae840.png)
+
+## Создвние контроллера для таблицы Product 
+![image](https://user-images.githubusercontent.com/130051069/234689388-3becb870-49be-4df6-a0af-e0e53ce70b15.png)
+
+## Создвние контроллера для таблицы User
+![image](https://user-images.githubusercontent.com/130051069/234689430-25e377bc-dc40-41e8-81fd-75aacbfe698d.png)
